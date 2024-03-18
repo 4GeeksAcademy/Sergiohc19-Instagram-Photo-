@@ -1,0 +1,204 @@
+    /*Primer post de instagram*/
+*{
+    border: solid 1px red;
+}
+
+h1{
+    text-align: center;
+    margin: auto;
+}
+
+.body{
+    margin-top: 0px;
+    width: 1900px;
+    height: 650px;
+    display: block;
+}
+.post{
+    margin: auto;
+    display: block;
+    width: 600px;
+    height: 535px;
+    margin-top: 40px;
+}
+.postheader{
+    width: 600px;
+    height: 60px;
+    display: flex;
+}
+.postheader h2{
+    width: 550px;
+}
+.postheader h3{
+    opacity: 50%;
+}
+.postimg{
+    width: 600px;
+    height: 400px;
+}
+#img1{
+    width: 599px;
+    height: 400px;
+    object-fit:fill; 
+}
+.footer{
+    width: 590px;
+    text-rendering: optimizeLegibility;
+    height: 60px;
+    margin:5px
+}
+.footer p{
+    width: 525px;
+    margin:auto;
+    margin-top: 10px;
+}
+    /*Segundo post de instagram*/
+*{
+    border: solid 1px red;
+}
+
+.body{
+    margin-top: 0px;
+    width: 1900px;
+    height: 650px;
+    display: block;
+}
+.post{
+    margin: auto;
+    display: block;
+    width: 600px;
+    height: 535px;
+    margin-top: 40px;
+}
+.postheader{
+    width: 600px;
+    height: 60px;
+    display: flex;
+}
+.postheader h2{
+    width: 550px;
+}
+.postheader h3{
+    opacity: 50%;
+}
+.postimg{
+    width: 600px;
+    height: 400px;
+}
+#img2{
+    width: 599px;
+    height: 400px;
+    object-fit:fill; 
+}
+.footer{
+    width: 590px;
+    text-rendering: optimizeLegibility;
+    height: 60px;
+    margin:5px
+}
+.footer p{
+    width: 525px;
+    margin:auto;
+    margin-top: 10px;
+}
+    /*Tercer post de instagram*/
+*{
+    border: solid 1px red;
+}
+
+.body{
+    margin-top: 0px;
+    width: 1900px;
+    height: 650px;
+    display: block;
+}
+.post{
+    margin: auto;
+    display: block;
+    width: 600px;
+    height: 535px;
+    margin-top: 40px;
+}
+.postheader{
+    width: 600px;
+    height: 60px;
+    display: flex;
+}
+.postheader h2{
+    width: 550px;
+}
+.postheader h3{
+    opacity: 50%;
+}
+.postimg{
+    width: 600px;
+    height: 400px;
+}
+#img3{
+    width: 599px;
+    height: 400px;
+    object-fit: fill; 
+}
+.footer{
+    width: 590px;
+    text-rendering: optimizeLegibility;
+    height: 60px;
+    margin:5px
+}
+.footer p{
+    width: 525px;
+    margin:auto;
+    margin-top: 10px;
+}
+     /*Cuarto post de instagram*/
+*{
+    border: solid 1px red;
+}
+
+.body{
+    margin-top: 0px;
+    width: 1900px;
+    height: 650px;
+    display: block;
+}
+.post{
+    margin: auto;
+    display: block;
+    width: 600px;
+    height: 535px;
+    margin-top: 40px;
+}
+.postheader{
+    width: 600px;
+    height: 60px;
+    display: flex;
+}
+.postheader h2{
+    width: 550px;
+}
+.postheader h3{
+    opacity: 50%;
+}
+.postimg{
+    width: 600px;
+    height: 400px;
+}
+#img4{
+    width: 599px;
+    height: 400px;
+    object-fit: fill; 
+}
+.footer{
+    width: 590px;
+    text-rendering: optimizeLegibility;
+    height: 60px;
+    margin:5px
+}
+.footer p{
+    width: 525px;
+    margin:auto;
+    margin-top: 10px;
+}
+
+
+
